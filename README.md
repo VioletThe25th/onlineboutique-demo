@@ -37,3 +37,9 @@ spec:
     - CreateNamespace=true
 ```
 ![image](https://github.com/user-attachments/assets/31142150-f9e2-4101-a2ba-e51e13e83695)
+
+Je lance avec la commande suivante : 
+```bash
+kubectl port-forward svc/argocd-server -n argocd 8080:443
+```
+![image](https://github.com/user-attachments/assets/77660295-3a93-41f1-ae8b-8acae996596d)
