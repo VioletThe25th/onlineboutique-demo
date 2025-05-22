@@ -28,7 +28,7 @@ spec:
   source:
     repoURL: https://github.com/VioletThe25th/onlineboutique-demo.git
     targetRevision: HEAD
-    path: chemin/vers/le/dossier/k8s
+    path: kubernetes-manifests
   syncPolicy:
     automated:
       selfHeal: true
