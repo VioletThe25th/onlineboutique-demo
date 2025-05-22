@@ -26,7 +26,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/TON-UTILISATEUR/TON-FORK.git
+    repoURL: https://github.com/VioletThe25th/onlineboutique-demo.git
     targetRevision: HEAD
     path: chemin/vers/le/dossier/k8s
   syncPolicy:
