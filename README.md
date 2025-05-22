@@ -43,3 +43,8 @@ Je lance avec la commande suivante :
 kubectl port-forward svc/argocd-server -n argocd 8080:443
 ```
 ![image](https://github.com/user-attachments/assets/77660295-3a93-41f1-ae8b-8acae996596d)
+
+Et lorsque j'essaie d'accèder à la page web via l'URL `127.0.0.1:8080` je vois ceci : 
+
+![image](https://github.com/user-attachments/assets/3385f6aa-b72b-4101-aeb9-a70552ba6b10)
+
