@@ -36,3 +36,4 @@ spec:
     syncOptions:
     - CreateNamespace=true
 ```
+![image](https://github.com/user-attachments/assets/31142150-f9e2-4101-a2ba-e51e13e83695)
